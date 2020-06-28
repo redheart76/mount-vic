@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+    background: #ddf3f5;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  background: #ddf3f5;
+}
+
+h1 {
+  font-size: 50px;
+  color: #1b6ca8;
+  text-shadow: 5px 5px 5px #654062;
+  font: italic 2em "Fira Sans", serif;
+}
+
+h3{
+  font: 1.2em "Fira Sans", sans-serif;
+}
+
+h4{
+  font: caption;
+}
+
+
+
+footer {
+  padding: 20px;
+  text-align: center;
+  background: #20B2AA;
+  margin-top: 20px;
+}
